@@ -1,3 +1,3 @@
 # Big Boy Points
-## A Cryptocurrency for Good Boys
-### Forked from Cryptonote
+`BigBoyPoints` (BBB) is a peer-to-peer digital cryptocurrency that 
+focuses on privacy and anonymity for its users.
