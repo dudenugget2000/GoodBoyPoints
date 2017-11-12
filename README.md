@@ -1,4 +1,3 @@
-# FidgetCoin
-The most trendy coin currently out there.
-
-testing
+#Big Boy Points
+##A Cryptocurrency for Good Boys
+###Forked from Cryptonote
