@@ -1,0 +1,18 @@
+2017-Nov-12 21:53:18.787076 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-12 21:53:18.787291 ERROR   [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-12 21:53:18.787343 ERROR   [currency] Failed to generate genesis block
+2017-Nov-12 21:54:12.066040 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-12 21:54:12.066301 ERROR   [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-12 21:54:12.066380 ERROR   [currency] Failed to generate genesis block
+2017-Nov-12 22:06:39.603524 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-12 22:07:07.076240 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-12 22:07:07.142172 INFO    [simplewallet] Generated new wallet: FY3eZEFUcaGBw392ELHKnAJAvPQ4mBkn1gDh2Z1anMBujA2KJ47xkXh9LYbQNetuyPXb77NU31ixDT9j6R6ttq7WQaUkpbo
+2017-Nov-12 22:07:07.142172 INFO    [simplewallet] view key: 141b4ae007eae7b23a0267180e7451b35f3d24bf2c17ff1f9c168958a1ecd402
+2017-Nov-12 22:07:07.142421 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-12 22:07:08.997787 INFO    [simplewallet] Wallet closed

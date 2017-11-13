@@ -1,0 +1,27 @@
+2017-Nov-12 22:22:30.955045 INFO    [daemon] forknote v2.1.2.1251 ()
+2017-Nov-12 22:22:30.955176 INFO    [daemon] Module folder: ./GoodBoyPointsd
+2017-Nov-12 22:22:30.992020 INFO    [RocksDBWrapper] Opening DB in /home/dudenugget2000/.GoodBoyPoints/DB
+2017-Nov-12 22:22:30.993345 INFO    [RocksDBWrapper] DB not found in /home/dudenugget2000/.GoodBoyPoints/DB. Creating new DB...
+2017-Nov-12 22:22:31.216073 INFO    [daemon] Initializing core...
+2017-Nov-12 22:22:31.253151 INFO    [daemon] Core initialized OK
+2017-Nov-12 22:22:31.253230 INFO    [daemon] Initializing p2p server...
+2017-Nov-12 22:22:31.253303 INFO    [node_server] Generated new peer ID: 4080572471148520381
+2017-Nov-12 22:22:31.253339 INFO    [node_server] Binding on 0.0.0.0:17845
+2017-Nov-12 22:22:31.253398 INFO    [node_server] Net service binded on 0.0.0.0:17845
+2017-Nov-12 22:22:31.253432 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Nov-12 22:22:33.244686 INFO    [node_server] Added IGD port mapping.
+2017-Nov-12 22:22:33.244775 INFO    [daemon] P2p server initialized OK
+2017-Nov-12 22:22:33.244881 INFO    [daemon] Starting core rpc server on address 127.0.0.1:17846
+2017-Nov-12 22:22:33.244961 INFO    [daemon] Core rpc server started ok
+2017-Nov-12 22:22:33.245002 INFO    [daemon] Starting p2p net loop...
+2017-Nov-12 22:22:33.245036 INFO    [node_server] Starting node_server
+2017-Nov-12 22:22:33.335792 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-12 22:22:35.424036 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-12 22:22:36.549493 INFO    [node_server] Stop signal sent
+2017-Nov-12 22:22:36.549606 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Nov-12 22:22:36.549714 INFO    [node_server] NodeServer loop stopped
+2017-Nov-12 22:22:36.549753 INFO    [daemon] p2p net loop stopped
+2017-Nov-12 22:22:36.549796 INFO    [daemon] Stopping core rpc server...
+2017-Nov-12 22:22:36.549868 INFO    [daemon] Deinitializing p2p...
+2017-Nov-12 22:22:36.567333 INFO    [RocksDBWrapper] Closing DB.
+2017-Nov-12 22:22:36.826727 INFO    [daemon] Node stopped.

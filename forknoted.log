@@ -1,0 +1,8 @@
+2017-Nov-12 21:46:40.242808 INFO    [daemon] forknote v2.1.2.1251 ()
+2017-Nov-12 21:46:40.242952 INFO    [daemon] Module folder: ./forknoted
+2017-Nov-12 21:46:40.243081 ERROR   [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-12 21:46:40.243136 ERROR   [currency] Failed to generate genesis block
+2017-Nov-12 21:54:36.863913 INFO    [daemon] forknote v2.1.2.1251 ()
+2017-Nov-12 21:54:36.864043 INFO    [daemon] Module folder: ./forknoted
+2017-Nov-12 21:54:36.864206 ERROR   [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-12 21:54:36.864258 ERROR   [currency] Failed to generate genesis block
