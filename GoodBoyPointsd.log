@@ -25,3 +25,36 @@
 2017-Nov-12 22:22:36.549868 INFO    [daemon] Deinitializing p2p...
 2017-Nov-12 22:22:36.567333 INFO    [RocksDBWrapper] Closing DB.
 2017-Nov-12 22:22:36.826727 INFO    [daemon] Node stopped.
+2017-Nov-16 19:11:31.285452 INFO    [daemon] forknote v2.1.2.1251 ()
+2017-Nov-16 19:11:31.285786 INFO    [daemon] Module folder: ./GoodBoyPointsd
+2017-Nov-16 19:11:31.286260 INFO    [RocksDBWrapper] Opening DB in /home/dudenugget2000/.GoodBoyPoints/DB
+2017-Nov-16 19:11:31.649535 INFO    [RocksDBWrapper] DB opened in /home/dudenugget2000/.GoodBoyPoints/DB
+2017-Nov-16 19:11:31.649972 INFO    [daemon] Initializing core...
+2017-Nov-16 19:11:31.725013 INFO    [daemon] Core initialized OK
+2017-Nov-16 19:11:31.725250 INFO    [daemon] Initializing p2p server...
+2017-Nov-16 19:11:31.726081 INFO    [node_server] Binding on 0.0.0.0:17845
+2017-Nov-16 19:11:31.726355 INFO    [node_server] Net service binded on 0.0.0.0:17845
+2017-Nov-16 19:11:31.726501 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Nov-16 19:11:35.904978 INFO    [node_server] Added IGD port mapping.
+2017-Nov-16 19:11:35.905228 INFO    [daemon] P2p server initialized OK
+2017-Nov-16 19:11:35.905559 INFO    [daemon] Starting core rpc server on address 127.0.0.1:17846
+2017-Nov-16 19:11:35.905785 INFO    [daemon] Core rpc server started ok
+2017-Nov-16 19:11:35.905917 INFO    [daemon] Starting p2p net loop...
+2017-Nov-16 19:11:35.906008 INFO    [node_server] Starting node_server
+2017-Nov-16 19:11:36.127358 INFO    [protocol] 
+2017-Nov-16 19:11:36.127358 INFO    [protocol] **********************************************************************
+2017-Nov-16 19:11:36.127358 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Nov-16 19:11:36.127358 INFO    [protocol] 
+2017-Nov-16 19:11:36.127358 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Nov-16 19:11:36.127358 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Nov-16 19:11:36.127358 INFO    [protocol] 
+2017-Nov-16 19:11:36.127358 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Nov-16 19:11:36.127358 INFO    [protocol] **********************************************************************
+2017-Nov-16 19:11:42.902978 INFO    [node_server] Stop signal sent
+2017-Nov-16 19:11:42.903059 INFO    [node_server] Stopping NodeServer and it's3 connections...
+2017-Nov-16 19:11:42.904247 INFO    [node_server] NodeServer loop stopped
+2017-Nov-16 19:11:42.904401 INFO    [daemon] p2p net loop stopped
+2017-Nov-16 19:11:42.904545 INFO    [daemon] Stopping core rpc server...
+2017-Nov-16 19:11:42.904747 INFO    [daemon] Deinitializing p2p...
+2017-Nov-16 19:11:43.006319 INFO    [RocksDBWrapper] Closing DB.
+2017-Nov-16 19:11:43.242241 INFO    [daemon] Node stopped.
