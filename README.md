@@ -27,7 +27,7 @@ More](https://cryptonote.org/inside#adaptive-limits)
 
 ## Emission and Coins Per Block
 ![Emission and Coins Per 
-Block](https://github.com/dudenugget2000/GoodBoyPoints/emission.png)
+Block](https://github.com/dudenugget2000/GoodBoyPoints/master/emission.png)
 
 ## Special Thanks To
 * [CryptoNote](https://cryptonote.org/)
