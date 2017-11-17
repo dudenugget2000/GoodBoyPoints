@@ -16,3 +16,38 @@ current session's state. Otherwise, you will possibly need to synchronize
 your wallet again. Your wallet key is NOT under risk anyway.
 **********************************************************************
 2017-Nov-12 22:07:08.997787 INFO    [simplewallet] Wallet closed
+2017-Nov-13 12:42:48.800128 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:43:16.095713 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:43:22.322647 ERROR   [simplewallet] Error: wallet.bin.wallet already exists
+2017-Nov-13 12:43:22.322901 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:43:31.031727 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:43:48.365933 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:44:46.549398 ERROR   [simplewallet] Error: wallet.bin.wallet already exists
+2017-Nov-13 12:44:46.549708 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:44:50.134916 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:44:59.005439 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:45:03.572087 ERROR   [simplewallet] Error: wallet.bin.wallet already exists
+2017-Nov-13 12:45:03.572390 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:45:28.295777 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:47:09.920857 ERROR   [simplewallet] Error: failed to load wallet: wallet file 'xd.wallet' is not found
+2017-Nov-13 12:47:09.921319 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:47:09.922798 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:09.923463 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:11.338012 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:47:18.452445 ERROR   [simplewallet] Error: failed to load wallet: wallet file 'walllet.bin.wallet' is not found
+2017-Nov-13 12:47:18.452787 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:47:18.453687 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:18.454327 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:30.549500 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:47:49.403472 ERROR   [simplewallet] Error: failed to load wallet: wallet file 'wallet.wallet' is not found
+2017-Nov-13 12:47:49.403822 ERROR   [simplewallet] Failed to initialize wallet
+2017-Nov-13 12:47:49.404933 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:49.405586 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:50.923926 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2017-Nov-13 12:47:57.080280 INFO    [simplewallet] Loading wallet...
+2017-Nov-13 12:47:57.081548 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:17846).
+2017-Nov-13 12:47:57.232767 INFO    [simplewallet] Opened wallet: FY3eZEFUcaGBw392ELHKnAJAvPQ4mBkn1gDh2Z1anMBujA2KJ47xkXh9LYbQNetuyPXb77NU31ixDT9j6R6ttq7WQaUkpbo
+2017-Nov-13 12:47:57.355735 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Nov-13 12:48:18.059428 INFO    [simplewallet] Wallet closed
